@@ -1,0 +1,6 @@
+﻿  DLLmain.cpp
+  Injection.cpp
+  BFH_Address.cpp
+  MyFunction.cpp
+  Generando código...
+  Hook.vcxproj -> C:\Users\ignacio\BattlefieldHeroes-SSL-TLS-disabler\DllToInject\Debug\Hook.dll

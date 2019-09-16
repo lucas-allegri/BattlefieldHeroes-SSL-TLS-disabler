@@ -16,7 +16,7 @@ int main(int argc, TCHAR *argv[])
 	STARTUPINFO info = { sizeof(info) };
 	PROCESS_INFORMATION processInfo;
 
-	if (CreateProcess(argv[0], argv[1], NULL, NULL, TRUE, 0, NULL, NULL, &info, &processInfo)) {
+	if (CreateProcess(argv[1], argv[2], NULL, NULL, TRUE, 0, NULL, NULL, &info, &processInfo)) {
 		CloseHandle(processInfo.hProcess);
 		CloseHandle(processInfo.hThread);
 	}

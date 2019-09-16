@@ -1,4 +1,0 @@
-﻿  Origine.cpp
-c:\users\ignacio\battlefieldheroes-ssl-tls-disabler\injector\origine.cpp(8): warning C4101: 'szProc': variable local sin referencia
-c:\users\ignacio\battlefieldheroes-ssl-tls-disabler\injector\origine.cpp(8): warning C4101: 'szDll': variable local sin referencia
-  Inject.vcxproj -> C:\Users\ignacio\BattlefieldHeroes-SSL-TLS-disabler\Injector\x64\Debug\Launcher.exe
